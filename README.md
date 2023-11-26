@@ -1,2 +1,2 @@
-# AgendaElectronica
-Agenda que almacena la información importante sobre los contactos mediante procedimientos almacenados de SQL Server
+# Calculadora
+Calculadora básica que realiza las cuatro operaciones principales suma, resta, multiplicación y división
